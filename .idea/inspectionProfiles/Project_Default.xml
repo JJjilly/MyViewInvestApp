@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="brotli" />
+          <option value="bs4" />
+          <option value="certifi" />
+          <option value="dash-bootstrap-components" />
+          <option value="dash-core-components" />
+          <option value="dash-daq" />
+          <option value="dash-html-components" />
+          <option value="dash-table" />
+          <option value="dash" />
+          <option value="fake-useragent" />
+          <option value="flask-compress" />
+          <option value="gunicorn" />
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="parse" />
+          <option value="patsy" />
+          <option value="pmdarima" />
+          <option value="pyee" />
+          <option value="pyquery" />
+          <option value="pytz" />
+          <option value="requests-futures" />
+          <option value="requests" />
+          <option value="ta" />
+          <option value="w3lib" />
+          <option value="yahooquery" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

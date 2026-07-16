@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b02dff42-9f5a-4396-b3fb-388dff01a569" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyViewInvest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/gencsv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/screener.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/tickers.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="23" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000021179736243" />
+      <entry key="MS500" value="1.107234964558257" />
+      <entry key="S2" value="2.699845427294497" />
+      <entry key="S5" value="4.219222761125113" />
+      <entry key="S10" value="5.006451876402312" />
+      <entry key="S30" value="5.643064811736156" />
+      <entry key="S60" value="5.856590973006563" />
+      <entry key="M2" value="6.317858745243525" />
+      <entry key="M5" value="8.111243562278744" />
+      <entry key="M10" value="10.340354018885487" />
+      <entry key="M15" value="11.655619891509962" />
+      <entry key="M30" value="13.469450382067794" />
+      <entry key="H1" value="14.628012101755054" />
+      <entry key="H2" value="15.28481248880866" />
+      <entry key="H4" value="15.634766456646219" />
+      <entry key="D1" value="15.938036332375388" />
+      <entry key="W1" value="15.991120914130736" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.3380751921914967E-6" />
+      <entry key="MS500" value="0.1183424358380398" />
+      <entry key="S2" value="1.980143384295252" />
+      <entry key="S5" value="3.8148345979646114" />
+      <entry key="S10" value="4.777108768721298" />
+      <entry key="S30" value="5.559611663947046" />
+      <entry key="S60" value="5.813911753417785" />
+      <entry key="M2" value="6.296236220217828" />
+      <entry key="M5" value="8.102432824445138" />
+      <entry key="M10" value="10.33585748377768" />
+      <entry key="M15" value="11.652585467847944" />
+      <entry key="M30" value="13.467907391598256" />
+      <entry key="H1" value="14.627232265035982" />
+      <entry key="H2" value="15.284420190425939" />
+      <entry key="H4" value="15.634569671322266" />
+      <entry key="D1" value="15.938003442759584" />
+      <entry key="W1" value="15.991116213309692" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3GYYko7jN0dQl6yxwKaNjA73MCa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "developement",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PyCharm 2026.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02dff42-9f5a-4396-b3fb-388dff01a569" name="Changes" comment="" />
+      <created>1784150115148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784150115148</updated>
+      <workItem from="1784150116119" duration="1808000" />
+      <workItem from="1784195228269" duration="1878000" />
+      <workItem from="1784197370675" duration="480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
