@@ -1,0 +1,26 @@
+name: Update App Expo
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Installa dipendenze
+        run: npm install
+
+      - name: Installa EAS CLI
+        run: npm install -g eas-cli
+
+      - name: Pubblica aggiornamento
+        run: eas update --branch main --message "aggiornamento automatico"
+        env:
+          EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
