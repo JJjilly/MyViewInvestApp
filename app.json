@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MyViewInvestApp",
-    "slug": "MyViewInvestApp",
+    "slug": "myinvestview",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,17 +13,34 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jillymehdisteam.myinvestview",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.jillymehdisteam.myinvestview"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7dca7597-b05f-4ecd-af8b-8a1a8ffa4cbd"
+      }
+    },
+    "owner": "jillymehdis-team",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7dca7597-b05f-4ecd-af8b-8a1a8ffa4cbd"
     }
   }
 }
