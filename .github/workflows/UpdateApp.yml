@@ -2,7 +2,7 @@ name: Update App Expo
 
 on:
   push:
-    branches: [main]
+    branches: [main, development]
 
 jobs:
   update:
