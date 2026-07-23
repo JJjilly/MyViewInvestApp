@@ -17,10 +17,7 @@ jobs:
       - name: Installa dipendenze
         run: npm install
 
-      - name: Installa EAS CLI
-        run: npm install -g eas-cli
-
       - name: Pubblica aggiornamento
-        run: eas update --branch main --message "aggiornamento automatico"
+        run: npx eas-cli update --branch main --message "aggiornamento automatico"
         env:
           EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
